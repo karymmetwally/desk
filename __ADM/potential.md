@@ -3,6 +3,7 @@
 + urgent news
 + stock exchange
 + environment crisis 
++ health and disaster management 
 + investment
 + breaking news
 + logistics
