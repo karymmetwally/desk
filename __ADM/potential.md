@@ -6,5 +6,6 @@
 + health and disaster management 
 + investment
 + breaking news
++ new technology 
 + logistics
 + retails offers
