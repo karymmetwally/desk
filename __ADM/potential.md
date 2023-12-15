@@ -90,9 +90,9 @@ Daily updates in these industries are essential for staying relevant, informed, 
 
 ### EXAMPLES
 
-+ News websites like BBC,
-+ financial portals such as Bloomberg
-+ e-commerce platforms like Amazon 
++ ==News websites like BBC==
++ ==financial portals such as Bloomberg==
++ ==e-commerce platforms like Amazon==
 
 are excellent examples of websites that update daily. 
 
