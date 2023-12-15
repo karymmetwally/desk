@@ -78,4 +78,10 @@ These industries leverage fast websites to enhance user experience and remain co
 + financial services, 
 +  job portals are examples of industries that greatly benefit from daily updated websites. 
 
-News outlets depend on constant updates to provide the latest information. Financial services require daily updates for market data and trends. Job portals need real-time postings and information for job seekers and employers. Daily updates in these industries are essential for staying relevant, informed, and competitive in their respective fields.
+News outlets depend on constant updates to provide the latest information. 
+
+Financial services require daily updates for market data and trends. 
+
+Job portals need real-time postings and information for job seekers and employers. 
+
+Daily updates in these industries are essential for staying relevant, informed, and competitive in their respective fields.
