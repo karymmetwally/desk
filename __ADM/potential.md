@@ -74,9 +74,11 @@ These industries leverage fast websites to enhance user experience and remain co
 
 ### DAILY UPDATE
 
-+ News media, 
-+ financial services, 
-+  job portals are examples of industries that greatly benefit from daily updated websites. 
++ ==News media==
++ ==financial services==
++  ==job portals==
+
+are examples of industries that greatly benefit from daily updated websites. 
 
 News outlets depend on constant updates to provide the latest information. 
 
