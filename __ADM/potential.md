@@ -6,4 +6,4 @@
 + investment
 + breaking news
 + logistics
-+ 
++ retails offers
