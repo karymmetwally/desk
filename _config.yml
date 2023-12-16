@@ -3,4 +3,5 @@ theme: minima
 logo: nobody.png
 
 header_pages:
-- new.md
+- new. md
+- bla. md
