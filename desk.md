@@ -3,7 +3,7 @@ title: Desk
 ---
 
 
-El Salvador launched BTC ‘Freedom Visa’
+### El Salvador launched BTC ‘Freedom Visa’
 
 ![camera_d354189b-e6e4-4bb8-96b3-b656c5e6a797](/camera_d354189b-e6e4-4bb8-96b3-b656c5e6a797.jpg)
 
