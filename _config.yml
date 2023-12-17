@@ -3,6 +3,5 @@ theme: minima
 logo: nobody.png
 
 header_pages: 
-   - bla.md
-   - Nutrition.md
-   - Writing.md
+   - news.md
+   - desk.md
