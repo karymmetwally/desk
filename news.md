@@ -16,7 +16,7 @@ The government of El Salvador and stablecoin issuer Tether announced the program
 
 So far 153 people have taken advantage of the program.
 
-Follow us on Telegram and Twitter
+---
 
 Mexican Pesos 
 ---
