@@ -12,6 +12,7 @@ So far 153 people have taken advantage of the program.
 
 Follow us on Telegram and Twitter
 
+Mexican Pesos 
 ---
 
 And it turned out that the peso, which rose against the dollar by 15% this year, further improved its positions.
