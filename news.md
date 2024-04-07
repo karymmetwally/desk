@@ -2,6 +2,7 @@
 title: News
 ---
 
+![Attachment-2024-04-07](/Attachment-2024-04-07.jpg)
 
 
 ---
