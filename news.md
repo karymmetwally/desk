@@ -2,9 +2,6 @@
 title: News
 ---
 
-![Attachment-2024-04-07](/Attachment-2024-04-07.gif)
-
-
 ---
 
 El Salvador launched BTC ‘Freedom Visa
