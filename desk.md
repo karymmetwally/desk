@@ -5,7 +5,7 @@ title: Desk
 
 ### El Salvador launched BTC ‘New Freedom Visa’
 
-El Salvador has partnered with Tether USD to launch a program to grant citizenship in exchange for a non-refundable investment of $1 million in Bitcoin or USDT in the country’s economy.
+El new Salvador has partnered with Tether USD to launch a program to grant citizenship in exchange for a non-refundable investment of $1 million in Bitcoin or USDT in the country’s economy.
 
 The government of El Salvador and stablecoin issuer Tether announced the program on Dec. 7, dubbed the “Adopting El Salvador Freedom Visa Program.”
 
